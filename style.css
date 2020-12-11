@@ -4,4 +4,5 @@ h3{text-align:center;}
 h4{text-align:center;}
 p{text-align:center;}
 img.ksu{border: 8px ridge purple;border-radius: 100px;}
+img.pix{float: left}
 a.button{font-weight: 700;color: white;text-decoration: none;padding: 10px 10px 10px;border-radius: 15px;background: green;}
